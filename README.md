@@ -43,7 +43,7 @@ hosts {
     }
 ```
 
-For complete core dns config map example [refer this](https://github.com/gauravratnakar256/flame/blob/main/images/coredns_configmap.png)
+For complete core dns config map example [refer this](https://github.com/gauravgadewar36/flame/blob/main/images/coredns_configmap.png)
 
 ### 5] Build flame container image
 
@@ -174,7 +174,7 @@ export PATH="$HOME/.flame/bin:$PATH"
 
 # Run MedMNIST example
 
-To manually run medmnist job refer to instructions at [medmnist example](https://github.com/gauravratnakar256/flame/blob/main/examples/medmnist/README.md).
+To manually run medmnist job refer to instructions at [medmnist example](https://github.com/gauravgadewar36/flame/tree/main/examples/medmnist#readme).
 
 To run medmnist job using script  follow below command
 
