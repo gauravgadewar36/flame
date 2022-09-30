@@ -21,7 +21,7 @@
     },
     "priority": "low",
 
-    "backend": "mqtt",
+    "backend": "p2p",
     "maxRunTime": 86400,
 
     "baseModel": {
@@ -29,7 +29,7 @@
         "version": 0
     },
     "hyperparameters": {
-        "rounds": 100,
+        "rounds": 2,
         "batchSize": 32,
         "learningRate": 0.01,
         "epochs": 4
